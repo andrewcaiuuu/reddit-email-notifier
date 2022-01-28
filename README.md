@@ -1,7 +1,8 @@
-email you about new posts that fuzzymatch keywords.
-can be used to check for specific products in used product subreddits.
-secrets json:
-{
+email you about new posts that fuzzymatch keywords. <br />
+can be used to check for specific products in used product subreddits. <br />
+secrets json: 
+'''
+{ 
   "CLIENT_ID": "CLIENT_ID",
   "CLIENT_SECRET": "CLIENT_SECRET",
   "USER_AGENT": "USER_AGENT",
@@ -41,3 +42,4 @@ secrets json:
   ],
   "MONGO_CLIENT": "MONGO_CLIENT"
 }
+'''
